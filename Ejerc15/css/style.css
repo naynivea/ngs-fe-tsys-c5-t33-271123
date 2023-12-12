@@ -1,0 +1,25 @@
+.thumbnails {
+  float: left;
+  width: 150px;
+  margin-right: 20px;
+}
+
+.thumbnails img {
+  width: 100px;
+  height: auto;
+  cursor: pointer;
+}
+
+.main-image {
+  float: left;
+}
+
+#mainImg {
+  width: 400px;
+  height: 300px;
+}
+
+#caption {
+  text-align: center;
+  font-style: italic;
+}
